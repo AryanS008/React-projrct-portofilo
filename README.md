@@ -1,8 +1,8 @@
 #Project
 
-This project is a portfolio website which is created by using mostly react.js and css.
+This project is a portfolio website which is created by using react.js and css.
 
-#Steps
+
 # Getting Started with Create React App
 
 By creating react file by-
